@@ -20,7 +20,7 @@ module.exports = (env, argv) => {
         template: './index.html'
       }),
       new FaviconsWebpackPlugin({
-        logo: 'logo.png',
+        logo: 'assets/logo.png',
         prefix: 'assets/'
       }),
       new MiniCssExtractPlugin({
