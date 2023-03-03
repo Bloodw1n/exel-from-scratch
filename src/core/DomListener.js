@@ -37,4 +37,3 @@ function getMethodName(eventName) {
   return 'on' + capitalize(eventName)
 }
 
-
