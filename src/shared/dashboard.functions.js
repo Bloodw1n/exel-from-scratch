@@ -30,13 +30,13 @@ export function createRecordsTable() {
   const keys = getAllKeys()
 
   if (!keys.length) {
-    return `<p>Вы пока не создали ни одной таблицы</p>`
+    return `<p>You have not created any tables yet</p>`
   }
 
   return `
     <div class="db__list-header">
-      <span>Название</span>
-      <span>Дата открытия</span>
+      <span>Title</span>
+      <span>Opening date</span>
     </div>
 
     <ul class="db__list">
