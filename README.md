@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br  />
 <div align="center">
-<a href="https://bloodw1n.github.io/top-sneakers/">
+<a href="https://bloodw1n.github.io/exel-from-scratch/">
 <img  src="./src/assets/logo.png"  alt="Logo"  width="80"  height="80">
 </a>
 <h3  align="center">Custom simple Excel</h3>
